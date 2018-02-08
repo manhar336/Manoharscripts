@@ -1,0 +1,33 @@
+{
+   "onlyRecover": false,
+
+   "clusterName":"GABT1GCN",
+
+   "MaintainServerList": [
+
+       {
+
+          "forceMaintain": 0,
+
+          "memo": "memo",
+
+          "username": "mdharmal",
+
+          "ticketnum": "WO1212",
+
+          "recover": "30",
+
+          "type": 3,
+
+          "result_type": 1,
+
+
+          "ipaddress": "10.240.33.124",
+
+          "resource":"CONNECT"
+
+       }
+
+
+   ]
+}
