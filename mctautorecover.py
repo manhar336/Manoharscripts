@@ -1,4 +1,4 @@
-# /usr/bin/python  This is comment and adding for no fast forward
+# /usr/bin/python  This is comment and adding for automation commit
 #purpose:script used to recover group servers automatically after 30 mins in MCT
 import requests
 import json
