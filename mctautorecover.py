@@ -1,4 +1,4 @@
-# /usr/bin/python
+# /usr/bin/python  This is comment and adding for automation commit
 #purpose:script used to recover group servers automatically after 30 mins in MCT
 #Date: 24-09-2020
 import requests

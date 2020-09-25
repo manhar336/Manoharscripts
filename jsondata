@@ -2,6 +2,7 @@
    "onlyRecover": false,
 
    "clusterName":"GABT3GCN",
+   "clusterName":"GABT2GCN",
 
    "MaintainServerList": [
 
@@ -24,7 +25,7 @@
 
           "ipaddress": "10.240.33.124",
 
-          "resource":"CONNECT"
+          "resource":"CONNECT1"
 
        }
 
